@@ -1,0 +1,36 @@
+<!-- <div class="card">
+  <div class="card-body">
+    <h3 class="card-title text-center">Tags</h3>
+    {% capture temptags %}
+    {% for tag in site.tags %}
+    {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+    {% endfor %}
+    {% endcapture %}
+    {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+    {% for temptag in sortedtemptags %}
+    {% assign tagitems = temptag | split: '#' %}
+    {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+    <a href="/tag/{{ tagname }}"><nobr>{{ tagname }}</nobr></code></a>
+    {% endfor %}
+  </div>
+</div> -->
+
+
+<div class="card">
+        <div class="card-body">
+          <h3 class="card-title text-center">Tags</h3>
+          <div class="category-tags d-flex flex-wrap justify-content-center">
+            {% capture temptags %}
+            {% for tag in site.tags %}
+            {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+            {% endfor %}
+            {% endcapture %}
+            {% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+            {% for temptag in sortedtemptags %}
+            {% assign tagitems = temptag | split: '#' %}
+            {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
+            <a class="card-link my-2 py-2 px-3" href="/tag/{{ tagname }}"><nobr>{{ tagname }}</nobr></code></a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
