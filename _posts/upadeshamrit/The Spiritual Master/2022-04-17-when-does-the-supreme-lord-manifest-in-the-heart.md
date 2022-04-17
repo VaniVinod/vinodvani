@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is the Spiritual master present in everything?
+title: When does the Supreme Lord manifest in the heart?
 categories: [The Spiritual Master]
 author: Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur
 tags: the_spiritual_master
