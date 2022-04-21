@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is it the spoiritual master fully independent?
+title: Is it the spiritual master fully independent?
 categories: [The Spiritual Master]
 author: Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur
 tags: the_spiritual_master
