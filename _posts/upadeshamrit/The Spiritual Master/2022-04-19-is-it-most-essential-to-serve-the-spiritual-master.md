@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is it ost essential to serve the Spiritual master?
+title: Is it most essential to serve the Spiritual master?
 categories: [The Spiritual Master]
 author: Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur
 tags: the_spiritual_master
