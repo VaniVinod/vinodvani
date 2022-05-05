@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If Jesus Christ was a *jagat-guru* and his instructions capable of bringing us deliverance, why do we need a spiritual master?
+title: If Jesus Christ was a jagat-guru and his instructions capable of bringing us deliverance, why do we need a spiritual master?
 categories: [The Spiritual Master]
 author: Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur
 tags: the_spiritual_master
