@@ -4,10 +4,10 @@ title: How do we achieve the mercy of Lord Nityananda, the Original Guru?
 categories: [The Spiritual Master]
 author: Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur
 tags: the_spiritual_master
-description: "I am an export", this is not a transcendentalist's mentality. If we realize that there are no person as fallen, wretched, and unqualified as ourselves in the entire world, then we are eligible to receive the mercy of Nityananda Prabhu, the Original Guru."
+description: I am an export, this is not a transcendentalist's mentality. If we realize that there are no person as fallen, wretched, and unqualified as ourselves in the entire world, then we are eligible to receive the mercy of Nityananda Prabhu, the Original Guru."
 ---
 
-"I am an export"; this is not a transcendentalist's mentality. If we realize that there are no person as fallen, wretched, and unqualified as ourselves in the entire world, then we are eligible to receive the mercy of Nityananda Prabhu, the Original Guru.
+I am an export; this is not a transcendentalist's mentality. If we realize that there are no person as fallen, wretched, and unqualified as ourselves in the entire world, then we are eligible to receive the mercy of Nityananda Prabhu, the Original Guru.
 
 ​	If we live with the spiritual master out of pretense, we may find ourselves in trouble. Similarly, if we live away from the spiritual master, we may also be in trouble. But if we maintain staunch faith and love for our spiritual master and the Vaishnavas, we will certainly be benefited regardless of whether we stay with them or live far away from them.
 
