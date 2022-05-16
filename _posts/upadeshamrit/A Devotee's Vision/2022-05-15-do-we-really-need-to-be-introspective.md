@@ -3,7 +3,7 @@ layout: post
 title: Do we really need to be introspective?
 categories: [A Devotee's Vision]
 author: Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur
-tags: a_devotee-vision
+tags: a-devotee-vision
 description: "If we are eager to know the contents of a letter, we show no patience when looking at the envelop. If we see objects in this material world as ingredients only for the Lord's service, we will no longer have external vision. The Supreme Lord is situated everywhere in this world. He is situated in the hearts of all living entities."
 ---
 
