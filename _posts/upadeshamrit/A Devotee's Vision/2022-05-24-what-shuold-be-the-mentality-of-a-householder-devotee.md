@@ -4,7 +4,7 @@ title: What should be the mentality of a householder devotee?
 categories: [A Devotee's Vision]
 author: Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur
 tags: a-devotee-vision
-description: "A householder devotee must remember that his house belongs to Krsna and he himself is a pet dog that Krsna maintains. Sri Bhaktivinoda Thakur writes, "Oh Lord! I do not know what is good and what is bad. I simply engage in Your Service. I guard objects that belong to you." One should serve Krsna with all that he possesses, knowing well that Krsna is the master of his household."
+description: "A householder devotee must remember that his house belongs to Krsna and he himself is a pet dog that Krsna maintains. One should serve Krsna with all that he possesses, knowing well that Krsna is the master of his household."
 ---
 
 A householder devotee must remember that his house belongs to Krsna and he himself is a pet dog that Krsna maintains. Sri Bhaktivinoda Thakur writes, "Oh Lord! I do not know what is good and what is bad. I simply engage in Your Service. I guard objects that belong to you." One should serve Krsna with all that he possesses, knowing well that Krsna is the master of his household.
