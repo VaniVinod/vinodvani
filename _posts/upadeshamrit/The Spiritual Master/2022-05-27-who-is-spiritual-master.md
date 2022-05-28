@@ -11,7 +11,7 @@ The spiritual master is the one who can protect me from death in the form of mat
 
 By the spiritual master's grace, my mentality of false proprietorship is destroyed. The spiritual master is Krsna's potency. He plants Vedic knowledge in our hearts, makes us feel lower than the straw in the street, make us more tolerant than a tree, removes our desire to be respected, teaches us to offer others our respect, and empowers us to always glorify the Supreme Lord and everything in relation to Him. The spiritual master alone is capable of delivering us from the clutches of Maya.
 
-​	The spiritual master is he who awards me the knowkedge that everyone in this world is worshipable. He teaches me that everyone is my spiritual master and that I am Krsna's eternal servant. He also teaches me that service to Krsna is my constitutional duty.
+​	The spiritual master is he who awards me the knowledge that everyone in this world is worshipable. He teaches me that everyone is my spiritual master and that I am Krsna's eternal servant. He also teaches me that service to Krsna is my constitutional duty.
 
 
 
