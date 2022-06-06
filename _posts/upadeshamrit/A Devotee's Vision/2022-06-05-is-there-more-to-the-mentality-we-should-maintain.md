@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is there more to thr mentality we should maintain?
+title: Is there more to the mentality we should maintain?
 categories: [A Devotee's Vision]
 author: Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur
 tags: a-devotee-vision
