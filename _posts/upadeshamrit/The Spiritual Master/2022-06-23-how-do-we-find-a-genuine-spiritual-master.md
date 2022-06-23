@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Who can act as our spiritual master?
+title: How do we find a genuine spiritual master?
 categories: [The Spiritual Master]
 author: Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur
 tags: the_spiritual_master
-description: "Only that great personality who has been sent by the Lord from the spiritual world into this world to deliver fallen souls like us, who delivers people who are afflicted with the threefold miseries and sends them back to Godhead, who is most dear to the Supreme Lord and who represents Him, and who is the messenger of transcendental subject matter, is capable of acting as our spiritual master. He is an actual devotee and an actual spiritual master whose ax-like words remain always sharpened to sacrifice our propensities for material enjoyment and dry renunciation."
+description: "The first step in attaining perfection is to take shelter of a bonafide spiritual master. By the Lord's will, everyone receives a spiritual master accordingly to his own qualification, just as the Christians received Jesus Christ and the Muslims Prophet Mohammad. Moreover, according to their luck, materialists remain attached to material life by accepting family priests as their spiritual masters. But if we are fortunate and search sincerely for a bonafide spiritual master, and if we humbly pray to the Lord to attain the mercy of such a guru, then by the Lord's mercy as well certainly receive a bonafide guru in this lifetime. Then by taking shelter at his lotus feet our life will become successful. "
 ---
 
 The first step in attaining perfection is to take shelter of a bonafide spiritual master. By the Lord's will, everyone receives a spiritual master accordingly to his own qualification, just as the Christians received Jesus Christ and the Muslims Prophet Mohammad. Moreover, according to their luck, materialists remain attached to material life by accepting family priests as their spiritual masters. But if we are fortunate and search sincerely for a bonafide spiritual master, and if we humbly pray to the Lord to attain the mercy of such a guru, then by the Lord's mercy as well certainly receive a bonafide guru in this lifetime. Then by taking shelter at his lotus feet our life will become successful. 
