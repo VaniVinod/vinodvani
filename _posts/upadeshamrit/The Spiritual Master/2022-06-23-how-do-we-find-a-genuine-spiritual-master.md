@@ -35,7 +35,11 @@ Sri Chaitanya caritamrita states:
 
 
 
+<<<<<<< HEAD
 "O Krsnacandra!, Please accept me as your servant. I will not continue to serve this temporary material world while thinking of myself as an enjoyer." When a living entity sincerely and humbly prays to the Lord in this way, then the most merciful Krsna appears before him in the form of a liberated devotee. Unless we are fortunate enough to receive transcendental knowledge from a bonafide spiritual master, we cannot become qualified to engage in the Lord's service. Since no human being or demigod is capable of awarding such transcendental knowledge, we must find shelter under a bonafide spiritual master.
+=======
+"O Krsnacandra!, Please accept me as your servant. I will not continue to serve this temporary material world while thinking of myself as an enjoyer." When a living entity sincerely and humbly prays to the Lord in this way, then the most merciful Krsna appears before him in the form of a liberated devotee. Unless we are fortunate enough to receive transcendental knowledge from a bonafide spiritual master, we cannot become qualified to engage in the Lord's service. Since no human being or demigod is capable of awarding sunch transcendental knowledge, we must find shelter under a bonafide spiritual master.
+>>>>>>> cf62f95 (2022-06-23-how-do-we-find-a-genuine-spiritual-master)
 
 
 
