@@ -1,0 +1,13 @@
+---
+layout: post
+title: Does Krsna appear in the form of a spiritual master to teach His own service?
+categories: [The Spiritual Master]
+author: Prabhupada Srila Bhakti Siddhanta Sarasvati Thakur
+tags: the_spiritual_master
+description: "The Supreme Personality of Godhead has hands and He is scratching His body with His hands. There is no difference between His body and His hands. He is serving Himself. In the same way, in order to teach devotional service, the lord personally appears in the form of a spiritual master. My spiritual master is nondifferent from the Lord. The Lord is the predominating subject, and the spiritual master is the predominating subject. The Lord is the worshipable God, and the spiritual master is the worshiper God. Lord Mukunda is the subject of service, and the spiritual master, who is most dear to Mukunda, is the topmost servant. There is no one as dear to the Lord as my spiritual master. He is certainly most dear to Krsna. Like two halves of a chickpea, worshipable Krsna is one half and worshiper Krsna is the other. The pastimes between them make them complete. The complete existence of the worshipable Lord is Krsna, and the complete existence of the worshiper Lord is my spiritual master. "
+---
+
+ The Supreme Personality of Godhead has hands and He is scratching His body with His hands. There is no difference between His body and His hands. He is serving Himself. In the same way, in order to teach devotional service, the lord personally appears in the form of a spiritual master. My spiritual master is nondifferent from the Lord. The Lord is the predominating subject, and the spiritual master is the predominating subject. The Lord is the worshipable God, and the spiritual master is the worshiper God. Lord Mukunda is the subject of service, and the spiritual master, who is most dear to Mukunda, is the topmost servant. There is no one as dear to the Lord as my spiritual master. He is certainly most dear to Krsna. Like two halves of a chickpea, worshipable Krsna is one half and worshiper Krsna is the other. The pastimes between them make them complete. The complete existence of the worshipable Lord is Krsna, and the complete existence of the worshiper Lord is my spiritual master. 
+
+​	Lord Krsna is the predomainating Supreme Brahman and the spiritual master is the predominated supreme Brahman. We are smaller than the smallest and the spiritual master, who constantly serves the greatest, is the greater than the greatest. The spiritual master is extremely dear to Lord Mukunda. The spiritual master's lotus feet are the best form of shelter. We will attain success if we accept the spiritual master, who is dear to Krsna, as servitor God.
+
